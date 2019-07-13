@@ -1,1 +1,1 @@
-# isqip
+# competitive programming solutions
