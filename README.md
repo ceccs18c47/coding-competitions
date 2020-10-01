@@ -1,4 +1,4 @@
-# competitive programming solutions
+# Competitive Programming Solutions
 
 ## Participated in
 
