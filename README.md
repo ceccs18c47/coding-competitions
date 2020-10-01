@@ -1,4 +1,4 @@
-# competitive programming solutions
+# Competitive Programming Solutions
 
 ## Participated in
 
@@ -8,3 +8,4 @@
 
 
 ***the solutions prior to the creation of this repository was unavailable.***
+
